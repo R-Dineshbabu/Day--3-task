@@ -1,0 +1,14 @@
+1.Declare four variables without assigning values and print them in console
+how to get value of the variable myvar as output.
+ let variable1;
+ let variable2;
+ let variable3;
+ let variable4;
+
+ console.log(variable1);
+ console.log(variable2);
+ console.log(variable3);
+ console.log(variable4);
+
+ let MyVar="Hello Dinesh";
+ console.log(MyVar);
