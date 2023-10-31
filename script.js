@@ -26,7 +26,7 @@ request.onload=function(){
     //console.log(data);
     var result=JSON.parse(data);
     for (var i=0;i<result.length;i++){
-        console.log(result[i].flags.alt)
+        console.log(result[i].flags.png)
     }
 
 
